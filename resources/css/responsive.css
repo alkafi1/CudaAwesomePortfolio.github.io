@@ -1,0 +1,122 @@
+@media only screen and (max-width:1200px)
+{
+    header{
+        height: 75vh;
+    }
+    .row{
+        margin: 0 1.5rem;
+    }
+}
+@media only screen and (max-width:1024px)
+{
+    
+    .mobile-menu span{
+        display: block;
+
+    }
+    .main_nav{
+        display: none;
+    }
+    .hero_text_box{
+        width: 100%;
+
+    }
+    html{
+        font-size: 55%;
+    }
+    .client-photo{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .client-review{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .contact-section form{
+        width: 100%;
+        margin-left: 0;
+
+    }
+}
+
+@media only screen and (max-width:980px)
+{
+    header{
+        height: 65vh;
+    }
+    .span_1_of_4{
+        width: 49.2%;
+    }
+    .span_1_of_4:nth-child(3){
+        margin-left: 0;
+        
+    }
+    .services_section .span_1_of_4:nth-child(3){
+        height: 0rem; 
+        float: none; 
+        margin-left: 0;
+    }
+    .services_icon {
+        margin: auto;
+    }
+    html{
+        font-size: 62.5%;
+    }
+
+
+}
+
+@media only screen and (max-width:768px)
+{
+    header{
+        height: 55vh;
+    }
+    .span_1_of_4{
+        width: 100%;
+    }
+    .little-description{
+        width: 100%;
+        margin-left: 0;
+    }
+    h1{
+        font-size: 3rem;
+    }
+    h2{
+        font-size: 2.5rem;
+
+    }
+    h3{
+        font-size: 2rem;
+    }
+
+}
+@media only screen and (max-width:768px)
+{
+    header{
+        height:65vh;
+    }
+    .little-description{
+        width: 100%;
+        margin-left: 0;
+    }
+    h1{
+        font-size: 2rem;
+    }
+    h2{
+        font-size: 2rem;
+
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+    .logo{
+        width: auto;
+    }
+    .testmonial-section col:nth-child(1),
+    .testmonial-section col:nth-child(2){
+        margin-top: 4rem;
+    }
+
+}

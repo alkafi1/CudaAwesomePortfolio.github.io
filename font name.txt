@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Copatible" content="IE-edge">
+        <title>Cuda - An Awesome Portfolio hmtl template</title>
+        <!--google font-->
+        <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap" rel="stylesheet">
+        <!--font awsome-->
+        <script src="https://kit.fontawesome.com/aaa8364103.js" crossorigin="anonymous"></script>
+        <!--vendors-->
+        <link rel="stylesheet" href="vendors/css/grid.css">
+        <link rel="stylesheet" href="vendors/css/normalize.css"> 
+        <!--resources-->
+        <link rel="stylesheet" href="resources/css/style.css">
+        <link rel="stylesheet" href="resources/css/responsive.css">
+        
+    </head>
+    <body>
+        
+
+
+
+
+
+        <!--Js script-->
+        <script src="vendors/js/html5shiv.min.js"></script>
+        <script src="vendors/js/respond.min.js"></script>
+        <script src="vendors/js/selectivizr.js"></script>
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
